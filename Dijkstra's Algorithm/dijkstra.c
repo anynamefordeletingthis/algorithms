@@ -85,7 +85,7 @@ int main()
         }
     }
 
-    u =0;
+    u = 0;
 
     Dijkstra(Graph, n, u);
 
